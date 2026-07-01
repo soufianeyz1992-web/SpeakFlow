@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="title_activity_main">TextToSpeech</string>
+    <string name="package_name">com.soufiane.texttospeech</string>
+    <string name="custom_url_scheme">com.soufiane.texttospeech</string>
+</resources>
